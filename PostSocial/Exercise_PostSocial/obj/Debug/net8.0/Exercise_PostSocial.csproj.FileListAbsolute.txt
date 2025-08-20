@@ -1,0 +1,14 @@
+C:\Users\74837\Desktop\ProjetoC#\Exercicios\Exercise_PostSocial\Exercise_PostSocial\obj\Debug\net8.0\Exercise_PostSocial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\74837\Desktop\ProjetoC#\Exercicios\Exercise_PostSocial\Exercise_PostSocial\obj\Debug\net8.0\Exercise_PostSocial.AssemblyInfoInputs.cache
+C:\Users\74837\Desktop\ProjetoC#\Exercicios\Exercise_PostSocial\Exercise_PostSocial\obj\Debug\net8.0\Exercise_PostSocial.AssemblyInfo.cs
+C:\Users\74837\Desktop\ProjetoC#\Exercicios\Exercise_PostSocial\Exercise_PostSocial\obj\Debug\net8.0\Exercise_PostSocial.csproj.CoreCompileInputs.cache
+C:\Users\74837\Desktop\ProjetoC#\Exercicios\Exercise_PostSocial\Exercise_PostSocial\bin\Debug\net8.0\Exercise_PostSocial.exe
+C:\Users\74837\Desktop\ProjetoC#\Exercicios\Exercise_PostSocial\Exercise_PostSocial\bin\Debug\net8.0\Exercise_PostSocial.deps.json
+C:\Users\74837\Desktop\ProjetoC#\Exercicios\Exercise_PostSocial\Exercise_PostSocial\bin\Debug\net8.0\Exercise_PostSocial.runtimeconfig.json
+C:\Users\74837\Desktop\ProjetoC#\Exercicios\Exercise_PostSocial\Exercise_PostSocial\bin\Debug\net8.0\Exercise_PostSocial.dll
+C:\Users\74837\Desktop\ProjetoC#\Exercicios\Exercise_PostSocial\Exercise_PostSocial\bin\Debug\net8.0\Exercise_PostSocial.pdb
+C:\Users\74837\Desktop\ProjetoC#\Exercicios\Exercise_PostSocial\Exercise_PostSocial\obj\Debug\net8.0\Exercise_PostSocial.dll
+C:\Users\74837\Desktop\ProjetoC#\Exercicios\Exercise_PostSocial\Exercise_PostSocial\obj\Debug\net8.0\refint\Exercise_PostSocial.dll
+C:\Users\74837\Desktop\ProjetoC#\Exercicios\Exercise_PostSocial\Exercise_PostSocial\obj\Debug\net8.0\Exercise_PostSocial.pdb
+C:\Users\74837\Desktop\ProjetoC#\Exercicios\Exercise_PostSocial\Exercise_PostSocial\obj\Debug\net8.0\Exercise_PostSocial.genruntimeconfig.cache
+C:\Users\74837\Desktop\ProjetoC#\Exercicios\Exercise_PostSocial\Exercise_PostSocial\obj\Debug\net8.0\ref\Exercise_PostSocial.dll
