@@ -1,0 +1,14 @@
+C:\Users\74837\Desktop\ProjetoC#\Exercicios\Exercicio-20-08\Exercicio-20-08\bin\Debug\net8.0\Exercicio-20-08.exe
+C:\Users\74837\Desktop\ProjetoC#\Exercicios\Exercicio-20-08\Exercicio-20-08\bin\Debug\net8.0\Exercicio-20-08.deps.json
+C:\Users\74837\Desktop\ProjetoC#\Exercicios\Exercicio-20-08\Exercicio-20-08\bin\Debug\net8.0\Exercicio-20-08.runtimeconfig.json
+C:\Users\74837\Desktop\ProjetoC#\Exercicios\Exercicio-20-08\Exercicio-20-08\bin\Debug\net8.0\Exercicio-20-08.dll
+C:\Users\74837\Desktop\ProjetoC#\Exercicios\Exercicio-20-08\Exercicio-20-08\bin\Debug\net8.0\Exercicio-20-08.pdb
+C:\Users\74837\Desktop\ProjetoC#\Exercicios\Exercicio-20-08\Exercicio-20-08\obj\Debug\net8.0\Exercicio-20-08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\74837\Desktop\ProjetoC#\Exercicios\Exercicio-20-08\Exercicio-20-08\obj\Debug\net8.0\Exercicio-20-08.AssemblyInfoInputs.cache
+C:\Users\74837\Desktop\ProjetoC#\Exercicios\Exercicio-20-08\Exercicio-20-08\obj\Debug\net8.0\Exercicio-20-08.AssemblyInfo.cs
+C:\Users\74837\Desktop\ProjetoC#\Exercicios\Exercicio-20-08\Exercicio-20-08\obj\Debug\net8.0\Exercicio-20-08.csproj.CoreCompileInputs.cache
+C:\Users\74837\Desktop\ProjetoC#\Exercicios\Exercicio-20-08\Exercicio-20-08\obj\Debug\net8.0\Exercicio-20-08.dll
+C:\Users\74837\Desktop\ProjetoC#\Exercicios\Exercicio-20-08\Exercicio-20-08\obj\Debug\net8.0\refint\Exercicio-20-08.dll
+C:\Users\74837\Desktop\ProjetoC#\Exercicios\Exercicio-20-08\Exercicio-20-08\obj\Debug\net8.0\Exercicio-20-08.pdb
+C:\Users\74837\Desktop\ProjetoC#\Exercicios\Exercicio-20-08\Exercicio-20-08\obj\Debug\net8.0\Exercicio-20-08.genruntimeconfig.cache
+C:\Users\74837\Desktop\ProjetoC#\Exercicios\Exercicio-20-08\Exercicio-20-08\obj\Debug\net8.0\ref\Exercicio-20-08.dll
