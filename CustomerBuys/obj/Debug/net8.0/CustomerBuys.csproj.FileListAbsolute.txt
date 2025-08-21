@@ -1,0 +1,14 @@
+C:\Users\74837\Desktop\ProjetoC#\Exercicios\CustomerBuys\CustomerBuys\bin\Debug\net8.0\CustomerBuys.exe
+C:\Users\74837\Desktop\ProjetoC#\Exercicios\CustomerBuys\CustomerBuys\bin\Debug\net8.0\CustomerBuys.deps.json
+C:\Users\74837\Desktop\ProjetoC#\Exercicios\CustomerBuys\CustomerBuys\bin\Debug\net8.0\CustomerBuys.runtimeconfig.json
+C:\Users\74837\Desktop\ProjetoC#\Exercicios\CustomerBuys\CustomerBuys\bin\Debug\net8.0\CustomerBuys.dll
+C:\Users\74837\Desktop\ProjetoC#\Exercicios\CustomerBuys\CustomerBuys\bin\Debug\net8.0\CustomerBuys.pdb
+C:\Users\74837\Desktop\ProjetoC#\Exercicios\CustomerBuys\CustomerBuys\obj\Debug\net8.0\CustomerBuys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\74837\Desktop\ProjetoC#\Exercicios\CustomerBuys\CustomerBuys\obj\Debug\net8.0\CustomerBuys.AssemblyInfoInputs.cache
+C:\Users\74837\Desktop\ProjetoC#\Exercicios\CustomerBuys\CustomerBuys\obj\Debug\net8.0\CustomerBuys.AssemblyInfo.cs
+C:\Users\74837\Desktop\ProjetoC#\Exercicios\CustomerBuys\CustomerBuys\obj\Debug\net8.0\CustomerBuys.csproj.CoreCompileInputs.cache
+C:\Users\74837\Desktop\ProjetoC#\Exercicios\CustomerBuys\CustomerBuys\obj\Debug\net8.0\CustomerBuys.dll
+C:\Users\74837\Desktop\ProjetoC#\Exercicios\CustomerBuys\CustomerBuys\obj\Debug\net8.0\refint\CustomerBuys.dll
+C:\Users\74837\Desktop\ProjetoC#\Exercicios\CustomerBuys\CustomerBuys\obj\Debug\net8.0\CustomerBuys.pdb
+C:\Users\74837\Desktop\ProjetoC#\Exercicios\CustomerBuys\CustomerBuys\obj\Debug\net8.0\CustomerBuys.genruntimeconfig.cache
+C:\Users\74837\Desktop\ProjetoC#\Exercicios\CustomerBuys\CustomerBuys\obj\Debug\net8.0\ref\CustomerBuys.dll
