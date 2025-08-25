@@ -1,0 +1,14 @@
+C:\Users\74837\Desktop\ProjetoC#\Exercicios\EmployeePolimorfismo\EmployeePolimorfismo\obj\Debug\net8.0\EmployeePolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\74837\Desktop\ProjetoC#\Exercicios\EmployeePolimorfismo\EmployeePolimorfismo\obj\Debug\net8.0\EmployeePolimorfismo.AssemblyInfoInputs.cache
+C:\Users\74837\Desktop\ProjetoC#\Exercicios\EmployeePolimorfismo\EmployeePolimorfismo\obj\Debug\net8.0\EmployeePolimorfismo.AssemblyInfo.cs
+C:\Users\74837\Desktop\ProjetoC#\Exercicios\EmployeePolimorfismo\EmployeePolimorfismo\obj\Debug\net8.0\EmployeePolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\74837\Desktop\ProjetoC#\Exercicios\EmployeePolimorfismo\EmployeePolimorfismo\bin\Debug\net8.0\EmployeePolimorfismo.exe
+C:\Users\74837\Desktop\ProjetoC#\Exercicios\EmployeePolimorfismo\EmployeePolimorfismo\bin\Debug\net8.0\EmployeePolimorfismo.deps.json
+C:\Users\74837\Desktop\ProjetoC#\Exercicios\EmployeePolimorfismo\EmployeePolimorfismo\bin\Debug\net8.0\EmployeePolimorfismo.runtimeconfig.json
+C:\Users\74837\Desktop\ProjetoC#\Exercicios\EmployeePolimorfismo\EmployeePolimorfismo\bin\Debug\net8.0\EmployeePolimorfismo.dll
+C:\Users\74837\Desktop\ProjetoC#\Exercicios\EmployeePolimorfismo\EmployeePolimorfismo\bin\Debug\net8.0\EmployeePolimorfismo.pdb
+C:\Users\74837\Desktop\ProjetoC#\Exercicios\EmployeePolimorfismo\EmployeePolimorfismo\obj\Debug\net8.0\EmployeePolimorfismo.dll
+C:\Users\74837\Desktop\ProjetoC#\Exercicios\EmployeePolimorfismo\EmployeePolimorfismo\obj\Debug\net8.0\refint\EmployeePolimorfismo.dll
+C:\Users\74837\Desktop\ProjetoC#\Exercicios\EmployeePolimorfismo\EmployeePolimorfismo\obj\Debug\net8.0\EmployeePolimorfismo.pdb
+C:\Users\74837\Desktop\ProjetoC#\Exercicios\EmployeePolimorfismo\EmployeePolimorfismo\obj\Debug\net8.0\EmployeePolimorfismo.genruntimeconfig.cache
+C:\Users\74837\Desktop\ProjetoC#\Exercicios\EmployeePolimorfismo\EmployeePolimorfismo\obj\Debug\net8.0\ref\EmployeePolimorfismo.dll
